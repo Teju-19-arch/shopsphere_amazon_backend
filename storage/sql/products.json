@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S25",
+    "description": "Premium 5G smartphone",
+    "category_id": 1,
+    "seller_id": 1,
+    "price": 74999,
+    "mrp": 84999,
+    "sku": "SAM-S25-256",
+    "brand": "Samsung",
+    "image_url": "",
+    "stock": 25,
+    "active": true,
+    "created_at": "2026-09-07T11:17:42.756133+00:00"
+  },
+  {
+    "id": 2,
+    "name": "HP Pavilion 14",
+    "description": "14-inch performance laptop",
+    "category_id": 1,
+    "seller_id": 1,
+    "price": 65999,
+    "mrp": 72999,
+    "sku": "HP-PAV14-I5",
+    "brand": "HP",
+    "image_url": "",
+    "stock": 15,
+    "active": true,
+    "created_at": "2026-09-07T11:17:42.756133+00:00"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "description": "Lightweight everyday running shoes",
+    "category_id": 2,
+    "seller_id": 1,
+    "price": 2499,
+    "mrp": 3999,
+    "sku": "RUN-SHOE-01",
+    "brand": "ShopSphere",
+    "image_url": "",
+    "stock": 50,
+    "active": true,
+    "created_at": "2026-09-07T11:17:42.756133+00:00"
+  }
+]

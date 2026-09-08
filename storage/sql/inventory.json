@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "available": 25,
+    "reserved": 0,
+    "updated_at": "2026-09-07T11:17:42.782296+00:00"
+  },
+  {
+    "id": 2,
+    "product_id": 2,
+    "available": 15,
+    "reserved": 0,
+    "updated_at": "2026-09-07T11:17:42.782296+00:00"
+  },
+  {
+    "id": 3,
+    "product_id": 3,
+    "available": 50,
+    "reserved": 0,
+    "updated_at": "2026-09-07T11:17:42.782296+00:00"
+  }
+]

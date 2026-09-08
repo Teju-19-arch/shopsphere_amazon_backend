@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "description": "Phones, laptops and electronics",
+    "parent_id": null
+  },
+  {
+    "id": 2,
+    "name": "Fashion",
+    "description": "Clothing, shoes and accessories",
+    "parent_id": null
+  },
+  {
+    "id": 3,
+    "name": "Home",
+    "description": "Home and kitchen products",
+    "parent_id": null
+  }
+]

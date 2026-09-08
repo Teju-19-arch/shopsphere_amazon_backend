@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "tokens": [
+      "samsung",
+      "galaxy",
+      "s25",
+      "premium",
+      "5g",
+      "smartphone",
+      "samsung"
+    ]
+  },
+  {
+    "id": 2,
+    "product_id": 2,
+    "tokens": [
+      "hp",
+      "pavilion",
+      "14",
+      "14-inch",
+      "performance",
+      "laptop",
+      "hp"
+    ]
+  },
+  {
+    "id": 3,
+    "product_id": 3,
+    "tokens": [
+      "running",
+      "shoes",
+      "lightweight",
+      "everyday",
+      "running",
+      "shoes",
+      "shopsphere"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "attributes": {
+      "display": "6.2 inch AMOLED",
+      "ram": "12GB",
+      "storage": "256GB",
+      "camera": "50MP",
+      "network": "5G"
+    },
+    "tags": [
+      "smartphone",
+      "android",
+      "5g",
+      "samsung"
+    ]
+  },
+  {
+    "id": 2,
+    "product_id": 2,
+    "attributes": {
+      "processor": "Intel Core i5",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14 inch",
+      "os": "Windows 11"
+    },
+    "tags": [
+      "laptop",
+      "hp",
+      "student",
+      "windows"
+    ]
+  },
+  {
+    "id": 3,
+    "product_id": 3,
+    "attributes": {
+      "sizes": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "material": "Mesh",
+      "gender": "Unisex"
+    },
+    "tags": [
+      "shoes",
+      "running",
+      "sports"
+    ]
+  }
+]
